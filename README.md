@@ -8,7 +8,7 @@
 
 ### Day 3
 * indexOf() used for string comparison. Note: return position of first instance found / meaning it can return '0' which is 'falsy'. Implement !== -1 to allow all search entries to go through.
-* Look at other students pull requests and improved own code (assigining nested objects to variables to shorten code)
+* Look at other students pull requests and improved own code (assigning nested objects to variables to shorten code)
 >Feeling good :)
 
 ### Day 4
@@ -16,4 +16,5 @@
 * switch case for multiple similar if/else conditionals
 
 ### Day 5
-
+* setTimeout(function,1000) wrong vs setTimeout(function(),1000) right
+* function callbacks always involve the function and not its return value!
