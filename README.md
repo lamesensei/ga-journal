@@ -1,5 +1,5 @@
 # Things I've learnt at General Assembly
-##*Web Development Intensive*
+###*Web Development Intensive*
 ### Day 1 / 2
 * parseInt() for prompt() to eliminate any unwanted string concatenation for number values.
 * Pressing cancel on a prompt() generates a NUll value.
@@ -17,4 +17,12 @@
 
 ### Day 5
 * setTimeout(function,1000) wrong vs setTimeout(function(),1000) right
-* function callbacks always involve the function and not its return value!
+* Function callbacks always involve the **function** and not its return value!
+
+### Day 6/7
+* Need to plan / pseudo code before starting.
+* Focus on requirements.
+>Assignment was fun but lost track creating function after function...
+
+[shit]: https://media.giphy.com/media/26tnnpcYVRNJGlHy0/giphy.gif
+
