@@ -24,5 +24,5 @@
 * Focus on requirements.
 >Assignment was fun but lost track creating function after function...
 
-[shit]: https://media.giphy.com/media/26tnnpcYVRNJGlHy0/giphy.gif
+![shit](https://media.giphy.com/media/26tnnpcYVRNJGlHy0/giphy.gif)
 
