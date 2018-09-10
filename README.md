@@ -26,3 +26,13 @@
 
 ![shit](https://media.giphy.com/media/26tnnpcYVRNJGlHy0/giphy.gif)
 
+### Day 8
+* appendChild() moves existing reference - no need to removeChild()
+* DOM element .style (for CSS) key is available without setAttribute
+* Traverse down the children, but can also traverse from children to parents. (note to use parents more.)
+* DOM lists can be pass into: 
+```javascript
+[].forEach.call(list, function(element) {//do stuff with element here})
+  ```
+
+
