@@ -34,5 +34,8 @@
 ```javascript
 [].forEach.call(list, function(element) {//do stuff with element here})
   ```
+### Day 9
+* Take note - most DOM get selectors usually return arrays which need to be [indexed].
 
+> Algorithms zzzzzz
 
