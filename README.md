@@ -32,10 +32,17 @@
 * Traverse down the children, but can also traverse from children to parents. (note to use parents more.)
 * DOM lists can be pass into: 
 ```javascript
-[].forEach.call(list, function(element) {//do stuff with element here})
-  ```
+[].forEach.call(list, function(element) {/*do stuff with element here*/})
+```
 ### Day 9
 * Take note - most DOM get selectors usually return arrays which need to be [indexed].
 
 > Algorithms zzzzzz
+
+### Day 10
+* Check for array using:
+```javascript
+Array.isArray(element) or element.constructor === false
+```
+* Perform code logic and DOM manipulation separately if possible!
 
