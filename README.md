@@ -46,3 +46,5 @@ Array.isArray(element) or element.constructor === false
 ```
 * Perform code logic and DOM manipulation separately if possible!
 
+* eg: Tic Tac Toe JS board and DOM board
+
