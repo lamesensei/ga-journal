@@ -48,3 +48,24 @@ Array.isArray(element) or element.constructor === false
 
 * eg: Tic Tac Toe JS board and DOM board
 
+### Day 11?
+
+* Lost track of time...
+
+### Day 12
+
+* Take note of code logic if it fires during 'successful' response handler and also 'errored' responses
+
+* XMLHttpRequest can be reused
+
+### PROJECT??? - 19/09/18
+
+* Sleep is important
+
+* Segment code over multiple JS files for organization
+
+* CSS (keyframe) animation is easy to implement. Timing control can be implemented via JS by setting the animation-name or other style keywords.
+
+* Bootstrap might seem counterintuitive with its reliance on multiple classes - but it is really good.
+
+* Try to minimize global variable usage and implement functions in such a way that it always returns something useful. 
