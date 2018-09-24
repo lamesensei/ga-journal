@@ -69,3 +69,19 @@ Array.isArray(element) or element.constructor === false
 * Bootstrap might seem counterintuitive with its reliance on multiple classes - but it is really good.
 
 * Try to minimize global variable usage and implement functions in such a way that it always returns something useful. 
+
+### Stop tracking by day... - 24/09/18
+
+* ESlint is really good in enforcing good coding practices.
+
+```
+Object.keys(object/array).forEach(function(key){}) 
+```
+vs
+```
+for (i in object) {}
+```
+
+* Tracing function callback is important especially with file reading operations.
+
+> My css still sucks :'( 
