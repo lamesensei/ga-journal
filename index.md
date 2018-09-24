@@ -1,5 +1,5 @@
 # Things I've learnt at General Assembly
-###*Web Development Intensive*
+### *Web Development Intensive*
 ### Day 1 / 2
 * parseInt() for prompt() to eliminate any unwanted string concatenation for number values.
 * Pressing cancel on a prompt() generates a NUll value.
