@@ -85,3 +85,13 @@ for (i in object) {}
 * Tracing function callback is important especially with file reading operations.
 
 > My css still sucks :'( 
+
+### 25/09/18
+
+* CSS link positioning and selector priority - **take note** or weep (especially when things seem to be not working).
+
+### 26/09/18
+
+* Learn heroku deployment - package.json should have a start script 'node index.js' & set app.listen 
+
+* Form actions and its children's name/value are critical for app.get/post
