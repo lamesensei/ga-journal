@@ -124,16 +124,16 @@ for (i in object) {}
 
 - Slack screen sharing is a god-send for pair-programming/remote help
 
-### 02/02/18
+### 02/10/18
 
 - Start functions with async, append await to any fuctions nested within to alllow subsequent statements to 'wait'
 
 - Async/await doesnt work with forEach() use ```for(let i in arr) {}``` instead
 
-### 03/02/18
+### 03/10/18
 
 - Async/await is brand spanking newish - avoid using it :|
 
-### 04/02/18
+### 04/10/18
 
 - Passwords are not stored - hashes which can be used for comparison are stored instead.
