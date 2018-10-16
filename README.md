@@ -137,3 +137,7 @@ for (i in object) {}
 ### 04/10/18
 
 - Passwords are not stored - hashes which can be used for comparison are stored instead.
+
+### 16/10/18
+
+It's been awhile my journal. Project 2 has wrapped up. Could've, should've done more but.. too late for regrets. Can't go 100% when you have been running at 50% all the time. **DO ALL THE FURTHER EXERCIES NO EXCUSES**
