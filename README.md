@@ -141,3 +141,7 @@ for (i in object) {}
 ### 16/10/18
 
 It's been awhile my journal. Project 2 has wrapped up. Could've, should've done more but.. too late for regrets. Can't go 100% when you have been running at 50% all the time. **DO ALL THE FURTHER EXERCIES NO EXCUSES**
+
+### 08/11/18
+
+Check in here since it's been awhile. RoR group project was a good learning experience. Its hard to note down the gritty details as the pace of learning has increase orders of magnitude. Still - will try to check in here. See you at end of course.
